@@ -3,7 +3,7 @@ fazer uma conta no github
 email = 
 senha = (colocar senha forte)
 
-=================================================================================
+==================================================================================
 
 Configuração no computador
 
@@ -34,18 +34,6 @@ git config --global user.email "luciojs.oliveira@gmail.com"
 git config --global user.name "Your Name"
 git config --global user.name "luciojs-Oliveira"
 
-
-
-
-
-
-
-
-
-
-
-
-
 =================================================================================
 
 Create a new repository = Criar novo repositório.
@@ -61,11 +49,8 @@ Public or Private = a sua escolha.
 
 Create repository = Cria um novo repositório.
 
-
-
-
-
 =================================================================================
+
 
 
 Atenção = Caso já não tenha um repositório local use esse comando para fazer um repositório local.
