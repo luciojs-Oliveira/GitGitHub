@@ -102,3 +102,29 @@ comando : ssh-keygen -t ed25519 -C "luciojs.oliveira@gmail.com"
 
 Após gerar a chave, ela estará na pasta 'ssh'.
 colar está chave no git hub = Add new SSH Key.
+
+======================================================================================
+
+Para excluir um repositório no github: Danger Zone
+
+- Entrar no repositório que deseja excluir.
+
+- Settings
+
+- Descer até o final da página.
+
+- Escolher a opção: Delete this repository.
+
+Isso excluirá permanentemente o repositório luciojs-Oliveira/GitGitHub, wiki, problemas, comentários, pacotes, segredos, execuções de fluxo de trabalho e removerá todas as associações de colaboradores.
+This will permanently delete the luciojs-Oliveira/GitGitHub repository, wiki, issues, comments, packages, secrets, workflow runs, and remove all collaborator associations.
+
+
+Quero excluir este repositório
+I want to delete this repository
+
+
+Eu li e compreendi esses efeitos
+I have read and understand these affects
+
+Para confirmar, digite "luciojs-Oliveira/GitGitHub" na caixa abaixo
+To confirm, type "luciojs-Oliveira/GitGitHub" in the box below
