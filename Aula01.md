@@ -100,4 +100,19 @@ git add . ------------------------------------- Adiciona todos os arquivos
 
 git commit -m "mensagem do commit" ------------ Adiciona uma mensagem ao commmit
 
+Atenção = trocar protocolo Http para SSH 
+========================================
 
+git remote add origin git remote add origin git@github.com:luciojs-Oliveira/GitGitHub.git ---- Conecta repositório local ao git hub.
+
+
+git push -u origin main ----------------------- Envia os arquivos para o github.
+
+
+
+gerando chave ssh pelo terminal
+
+comando : ssh-keygen -t ed25519 -C "luciojs.oliveira@gmail.com"
+
+Após gerar a chave, ela estará na pasta 'ssh'.
+colar está chave no git hub = Add new SSH Key.
