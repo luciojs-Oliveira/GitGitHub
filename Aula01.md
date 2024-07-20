@@ -26,7 +26,7 @@ Configuração no computador
 - adicionar a variável; exe : C:programas\Git\cmd
 
 
-3 - configurar a cominicação git com o github
+3 - configurar a cominicação do git com o github
 
 git config --global user.email "you@example.com"
 git config --global user.email "luciojs.oliveira@gmail.com"
@@ -52,8 +52,8 @@ Create repository = Cria um novo repositório.
 =================================================================================
 
 
+Atenção = Caso não tenha um repositório local use esse comando para fazer um repositório local.
 
-Atenção = Caso já não tenha um repositório local use esse comando para fazer um repositório local.
 ===============================================
 
 …or create a new repository on the command line
@@ -79,21 +79,22 @@ git push -u origin main
 
 comandos 
 
-git --version --------------------------------- Exibe a versão do git 
+git --version ------------------------------------------------------------------ Exibe a versão do git 
 
-git add . ------------------------------------- Adiciona todos os arquivos
+git add . ---------------------------------------------------------------------- Adiciona todos os arquivos
 
-git commit -m "mensagem do commit" ------------ Adiciona uma mensagem ao commmit
+git commit -m "mensagem do commit" --------------------------------------------- Adiciona uma mensagem ao commmit
 
 Atenção = trocar protocolo Http para SSH 
 ========================================
 
-git remote add origin git remote add origin git@github.com:luciojs-Oliveira/GitGitHub.git ---- Conecta repositório local ao git hub.
+git remote add origin git@github.com:luciojs-Oliveira/GitGitHub.git ------------- Conecta repositório local ao git hub.
 
 
-git push -u origin main ----------------------- Envia os arquivos para o github.
+git push -u origin main --------------------------------------------------------- Envia os arquivos para o github.
 
 
+======================================================================================
 
 gerando chave ssh pelo terminal
 
